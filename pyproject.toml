@@ -5,7 +5,7 @@ description = "Contains my solution to advent of code"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "aocd>=0.1",
+    "advent-of-code-data>=2.0.4",
     "ipykernel>=6.29.5",
     "matplotlib>=3.9.3",
     "networkx>=3.4.2",
